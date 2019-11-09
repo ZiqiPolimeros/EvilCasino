@@ -271,7 +271,7 @@ public class EvilCasino1 {
   
   repeat = keyboard.nextLine();
             
-}while(repeat == "1");
+}while(repeat.equals( "1"));
  
 }
 }  
